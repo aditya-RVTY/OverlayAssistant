@@ -1,0 +1,16 @@
+PySide6
+mss
+pytesseract
+Pillow
+openai
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+python-dotenv
+pypdf
+python-docx
+tiktoken
+keyboard
+ollama
+llama-cpp-python
